@@ -1,0 +1,7 @@
+
+model compression:
+benchmarking
+comparison with IDS
+
+1d convo
+Svm. 

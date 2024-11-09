@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=tWaqllcOpcw
+https://www.youtube.com/watch?v=XEBAAXwOl74
+
+I have worked on various datasets like JPEG/PNG, CSV, JSON, PCAP ,Pickle PDF/TIFF.
+1) For Object detection project I have used PNG,JPEG dataset which consisted of 10228 images.
+2) For training Machine learning model , I have used CSV dataset which had 50,000 entries about weather forecast. Performend missing data removal , data normalization , 
+3) For annotation of computer vision model , I have used JSON file which had values of class like person , animals ,etc which their bounding box values.
+4) For training Machine learning models , I have used PCAP dataset which consist of network traffic data used for anomaly detection 
+
+I have performed 
+
+1)Data Cleaning: Removing duplicates, filling missing values, and handling outliers in datasets, especially CSV files for structured data like network packets.
+2)Normalization and Scaling: Standardizing data to improve model performance, typically applied in network data or numerical features in CSV datasets.
+3)Data Augmentation: Generating variations of images (rotation, flipping, scaling, brightness adjustment) to enhance model generalization, particularly for object detection tasks.
+4)Label Encoding/One-Hot Encoding: Converting categorical labels into numerical form, used for datasets that require label transformations for ML models.
+5)Feature Extraction and Selection: Reducing dimensionality and selecting relevant features, useful in network packet data for intrusion detection
+6)Image Resizing and Cropping: Adjusting image dimensions to match model input requirements, applied in object detection with DINO and YOLO models.
+7)Tokenization and Embedding: Splitting text data into tokens and converting to embeddings, used in OCR for structured text extraction.
+8)Noise Reduction: Applying filters to remove noise from dataset.
+
+I have worked with python , C/C++ , java , Tensorflow and Pytorch ,SQL during my undergrade as part of course work , in projects , internships. I have done foundational course of python , C/C++ and Java as part of curriclum and for Tensorflow , Pytorch and SQL , I have completed online courses of Coursera , Udemy and NPTEL
+My projects are
+1)Object Detection and Distance Tracking at Night for Vehicle Safety:Utilized advanced computer vision techniques with YOLOv8,YOLOv7, YOLOv6, and YOLOv5 models on a Raspberry Pi 5 platform to develop a vehicle safety system for low-light conditions. The system accurately detects nearby vehicles and measures distances to preemptively using Vision Eye
+and alert drivers or adjust autonomous vehicle trajectories, enhancing road safety and advancing autonomous driving technology.
+2) Email Generator using LLAMA-2: Developed an Email Generator using LLAMA-2 LLM.Employed techniques such as fine-tuning and tokenization to optimize model performance and achieve better results in email compo sition.And Deployed on Website Application through Streamlit
+3)Anamoly Detection in IoT Devices using machine learning: Implemented an advanced anomaly detection models, consisting of machine learning and ensemble learning techniques, to identify and tag potential security threats in IoT devices.Obtained accuracy of 0.95 and decrease the inference time by 50 percent
+4) VocalEyes: Enhancing Perception for the Visually Impaired: This project develops a digital eye for blind people using advanced technologies. It employs YOLO for real-time object detection, eye vision tracking for distance calculation, and a vision-language model to describe the environment. Integrated with an edge device, it enhances blind individuals’ understanding  

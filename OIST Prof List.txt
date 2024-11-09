@@ -1,0 +1,9 @@
+1) Professor Yamada Makoto
+   UNI=OIST UNI
+
+Projects in machine learning and data science. Interns will work on developing machine learning algorithms and applying them to real-world problems. After the internship period, we aim to submit the intern work to top machine learning venues. The following papers are written by recent interns:
+GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks, TKDE 2022
+Feature Robust Optimal Transport for High-dimensional Data, ECML 2022
+Post-selection inference with HSIC-Lasso, ICML 2021
+Semantic Correspondence as an Optimal Transport Problem, CVPR 2020
+More Powerful Selective Kernel Tests for Feature Selection, AISTATS 2020

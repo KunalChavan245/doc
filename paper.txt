@@ -1,0 +1,12 @@
+
+
+
+1) flash attn is not installed.
+2) distance tracking is working with my webcam specs only
+3) our model capablities is very limited as we can only do envrionment percieving and distance calculation
+4) what are the performance metrics required for this model as the we are just fine tuning the model and nothing else
+
+disadvanteges of previous paper in introduction
+Results
+
+it 
